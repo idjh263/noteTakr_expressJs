@@ -18,8 +18,9 @@
 ## Usage
 💻  after download and install ,
 
-![alt text](assets/images/)
-
+![alt text](public/assets/images/note_taker.png)
+![alt text](public/assets/images/notes.png)
+![alt text](public/assets/images/insomnia.png)
 
 Built with:
 

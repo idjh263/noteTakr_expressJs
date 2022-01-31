@@ -1,7 +1,10 @@
 ## Project Title: 
 <h1 align="center">Note Taker </h1>
-## Description
+
+## Description:
+
 🔍 An Express.js based application that enable the user to take and save notes. 
+
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
